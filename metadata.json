@@ -1,0 +1,6 @@
+{
+  "name": "animelik",
+  "description": "موقع animelik لمشاهدة وتحميل أحدث مسلسلات وأفلام الأنمي المترجمة بجودة عالية وبسيرفرات متعددة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
